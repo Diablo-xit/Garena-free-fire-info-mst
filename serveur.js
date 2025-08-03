@@ -65,8 +65,8 @@ app.get('/', function (req, res) {
     "    button:hover { background: #00c853; }" +
     "    .post { background: #1a1a2e; margin: 20px 0; padding: 20px; border-radius: 10px; box-shadow: 0 2px 10px rgba(0,0,0,0.3); }" +
     "    .post-header { display: flex; align-items: center; gap: 10px; margin-bottom: 10px; }" +
-    "    .avatar { width: 150px; height: 150px; border-radius: 50%; object-fit: cover; border: 3px solid #00e676; }" +
-    "    .post img { width: 100%; max-height: 400px; border-radius: 8px; margin-top: 10px; }" +
+    "    .avatar { width: 100px; height: 100px; border-radius: 50%; object-fit: cover; border: 3px solid #00e676; }" +
+    "    .post img { width: 90%; max-height: 400px; border-radius: 8px; margin-top: 10px; }" +
     "    .publish-form { background: #1a1a2e; padding: 20px; border-radius: 10px; margin-bottom: 20px; display: none; }" +
     "    .publish-form.active { display: block; }" +
     "    .publish-form textarea { width: 100%; padding: 12px; background: #2d2d44; border: none; border-radius: 6px; color: white; height: 100px; resize: none; }" +
